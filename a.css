@@ -1,0 +1,40 @@
+/*
+235514 = ED73C0
+c5f64f = EDDF8C
+edf9c2 = 83c0e4
+f9fee4 = 7DF0DC
+
+57bc4d = A13F7D
+0b2406 = 479CA1
+*/
+
+.a {
+  color: #235514;
+  background-color: #ed73c0;
+  background-color: #9b0062;
+}
+
+.b {
+  color: #c5f64f;
+  background-color: #eddf8c;
+}
+
+.c {
+  color: #edf9c2;
+  background-color: #83c0e4;
+}
+
+.d {
+  color: #f9fee4;
+  background-color: #7df0dc;
+}
+
+.e {
+  color: #57bc4d;
+  background-color: #a13f7d;
+}
+
+.f {
+  color: #0b2406;
+  background-color: #479ca1;
+}
